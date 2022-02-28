@@ -1,0 +1,226 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new poll-bill for raising the sum of seven hundred thousand pound. Humbly offered to consideration. / By a person of quality.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689-1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90012</idno>
+            <idno type="STC">Wing N715B</idno>
+            <idno type="STC">ESTC R180953</idno>
+            <idno type="EEBO-CITATION">47683629</idno>
+            <idno type="OCLC">ocm 47683629</idno>
+            <idno type="VID">172939</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90012)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172939)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2657:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new poll-bill for raising the sum of seven hundred thousand pound. Humbly offered to consideration. / By a person of quality.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>between 1689 and 1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing (2nd ed.).</note>
+                  <note>Imperfect: stained and creased, with loss of text.</note>
+                  <note>Reproduction of original in: Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Allegiance --  Great Britain --  Early works to 1800.</term>
+               <term>Taxation --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1689-1702 --  Early works to 1800.</term>
+               <term>Broadsides --  England --  London --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="bill">
+            <pb n="1" facs="tcp:172939:1"/>
+            <head>A New Poll-Bill For Raiſing the Sum of <hi>Seven Hundred Thouſand Pound.</hi> Humbly offered to Conſideration.</head>
+            <byline>By a PERSON of Q<g ref="char:V">Ʋ</g>ALITY.</byline>
+            <p>I. THAT a Civil TEST be tender'd to all Degrees of Perſons, in ſuch Manner and Form as ſhall be thought convenient, as for Example:</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="oath">
+                        <p>I (A. B.) <hi>Do Swear, and Solemnly Profeſs, in the Preſence of Almighty God, That I will not take up Arms, Nor by any other Ways or Means, Directly, or Indirectly, Counſel or Aſſiſt any Perſon or Perſons againſt Their Majeſties King</hi> WILLIAM <hi>and Queen</hi> MARY.</p>
+                        <closer>So help me GOD.</closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>All Men who refuſe ſuch a paſſive Innocent TEST as this, do refuſe to live peaceably under the Go<g ref="char:EOLhyphen"/>vernment; And, by Conſequence, they do tacitely confeſs to the <hi>King</hi> and <hi>Parliament,</hi> that, as ſoon as they have a fair Opportunity, they will employ their Money and Strength to o<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erturn the Government.</p>
+            <p>II. 'Tis a Maxim in Law, <hi>Protectio trahit Subjectionem, &amp; Subjectio Prot<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctionem.</hi> And therefore they who renounce Subject o<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to any Government, do renounce Protection from the ſame: And by Conſe<g ref="char:EOLhyphen"/>quence, have no Right by Law to the protection of either Life or Eſtate under the preſent Government.</p>
+            <p>For which Reaſons it is both Juſt and Convenient to <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> them. Juſt becauſe it is but a moderate and reaſonable thing that they ſhould pay down ſome ſmall Contribution, to purchaſe that pro<g ref="char:EOLhyphen"/>tection for the Reſidue of their Eſtates, which, by Law, they have no Title to; Convenient, for that by this means we ſhall give Eaſe to our Friends, and weaken none but Enemies: And let no Man fear the Conſequences, for if it be Juſt, it will certainly proſper.</p>
+            <p>No Man can Foretel to what Sum this Tax may amount, but 'tis worth our Tryal in ſmall Sums, and then it may be repeated as often as there is occaſion; Suppoſe that the moſt inferior Rank pay but 40 <hi>s.</hi> a Tradeſman worth 100 <hi>l.</hi> clear, 5 <hi>l.</hi> worth 200 <hi>l.</hi> clear, 10 <hi>l.</hi> and ſo on, at the Rate of 5 <hi>l. per Cent.</hi> A Gentleman of any Eſtate 30 <hi>l.</hi> an Eſquire 40 <hi>l.</hi> a Knight 50 <hi>l.</hi> a Baronet 60 <hi>l.</hi> a Baron 80 <hi>l.</hi> an Earl 100 <hi>l.</hi> a Marqueſs 120 <hi>l.</hi> a Duke 140 <hi>l.</hi> At this Rate, if there ſhould be but 4000 perſons in all <hi>England</hi> and <hi>Wales,</hi> which will probably conſiſt moſt of Gentry and Tradeſmen, and ſo one with another at 30 <hi>l.</hi> the ſame will amount to 120 Thouſand <hi>l.</hi> This is but a ſmall Number in <hi>England</hi> and <hi>Wales;</hi> If there be more, the Tax will be more conſiderable and ſeaſonable, for we ſhall diſcover our Enemies, and make good uſe of that Money which was intended for our Deſtruction; if there be leſs, we ſhall have Men inſtead of Money, and be the better able to gueſs at our ſtrength at home, and know what Meaſures to take in this great Conjuncture abroad; It is impoſſible that the Nation can loſe any thing by ſuch a Law, but 'tis probable they may make wonderful Diſcoveries, and advance a conſiderable Tax by it.</p>
+            <p>III. That all Fines and Forfeitures which are due by Law, and may be recovered by any Informer, ſhall be appropriated by Act of Parliament to the publick Uſe; and that the Attorney or Solicitor General be enabled to Sue for and Recover all ſuch Forfeitures as any informer might have done. This Proceeding will not be inconſiſtent with any Alliances abroad, ſince no puniſhment is hereby inflicted ſince the Revo<g ref="char:EOLhyphen"/>lution for Matters of Religion, but only thoſe Forfeitures formerly due by Law taken from the common In<g ref="char:EOLhyphen"/>former, and appropriated to the publick Uſe; And this will extend to all Recuſants Conflict (whether Papiſt or Diſſenter) before the late King's pardon, and before the Judgment in Sir <hi>Edward Hales</hi>'s Caſe, and may raiſe 100 Thouſand <hi>l.</hi> For the words of the Statute are, <hi>That in caſe any perſon neglect or refuſe to take the Oaths within the time preſcribed, and ſhall be thereupon lawfully</hi> Convicted <hi>in or upon any Information, Preſentment or Indictment, every ſuch perſon ſhall forfeit</hi> 500 l. So that the late King's pardon does not extend to perſons actually Convicted, but that the Informer hath ſtill a good Title to an Action for the penalty of 500 <hi>l.</hi> but only to perſons who were not Convicted, nor any Information Fil'd againſt them before the ſaid pardon; For as to them, the King might pardon the penalty before Information Fil'd, for ſince they cannot now be Convicted by Law, the Informer can never have any Title, who muſt, in his Declaration ſet forth the Conviction as part of his Title by the ſaid Statute.</p>
+            <pb n="2" facs="tcp:172939:2"/>
+            <p> IV. That all other perſons in Offices who did not take the Oaths, ſhall pay for their Heads (and for the Benefit of a General Act of Oblivion, which will ſave them the Charges of pleading the late King's pardon againſt an Informer, and ſtanding Tryal upon the Judgment of the Judges) ſome certain Sum to be impoſed by the Parliament as a Tax, and not as a Fine upon them; as for Inſtance, All perſons who had places of profit, or were active buſie Men for the Times 50 <hi>l.</hi> which at 2000 perſons, will amount to 100 Thouſand <hi>l.</hi>
+            </p>
+            <p>That all other perſons who behaved themſelves well under this Revolution, diſarming Papiſts, <hi>&amp;c.</hi> or have voluntarily and freely taken the Oaths to the preſent Government the very next Term after the Coro<g ref="char:EOLhyphen"/>nation, or are perſons of Inferior Degree and Stations, do pay 10 <hi>l.</hi> The Number of theſe will be found to be very great throughout <hi>England</hi> and <hi>Wales</hi> in the two laſt Reigns, by Neglect, and otherwiſe, at leaſt 10000 Men, which will amount to 100 Thouſand <hi>l.</hi> Theſe Sums will be certainly paid without any Diſ<g ref="char:EOLhyphen"/>content, the Act of Oblivion being a good Conſideration for it.</p>
+            <p>V. Becauſe the Reaſon why theſe perſons are more particularly aimed at, is, for that they are ſuppos'd to be Men that would have comply'd for taking off the Teſt and Penal Laws, therefore we cannot with any Juſtice but take Notice of ſuch who did actually Subſcribe their Names to Addreſſes and Papers for aboliſhing the ſame: And the rather, for that they may be Impeached in Parliament, and ſo have as much Need for an Act of Oblivion as any other perſons whatſoever.</p>
+            <p>That all perſons therefore who ſet their Names to Addreſſes for taking off the Teſt and Penal Laws, or for returning Thanks to his late Majeſty for his Toleration contrary to Law, do pay for their Heads, and for an Act of Oblivion, ſome certain Sum to be Impoſed by Parliament; As for Inſtance, The Managers, Solicitors, and chief preſenters of ſuch Addreſſes 50 <hi>l.</hi> which, at no more than 500 Addreſſes, and Four Ringleaders to each Addreſs, will amount to 100 Thouſand <hi>l.</hi> That all others pay 10 <hi>l.</hi> which, at 20 to each Addreſs one with another, will amount to 100 Thouſand <hi>l.</hi> more.</p>
+            <p>That all perſons who Subſcribed to the Three Queſtions, do pay 40 <hi>l.</hi> by reaſon of their Quality and Eſtates, which, at no more than 2000 perſons, will amount to 80 Thouſand <hi>l.</hi>
+            </p>
+            <p>The Sum Total is—700 Thouſand <hi>l.</hi>
+            </p>
+            <p>BUT in Caſe the Parliament ſhould be of Opinion, that this manner of proceeding would alſo look too much like a Bill of Attainder, we may reduce theſe ſeveral particulars into two Heads.</p>
+            <list>
+               <item>I. Upon thoſe who ſhall refuſe a paſſive TEST, as aforeſaid.</item>
+               <item>II. Upon all perſons who ſhall receive any Benefit by a General Act of Oblivion, <hi>viz.</hi> That a Clauſe be brought in and added to the Bill, <hi>That all perſons</hi> (except Members of Parliament, whoſe Character ex<g ref="char:EOLhyphen"/>empts them from all Exceptions) <hi>who intend to have any Benefit by the</hi> Act of Indempnity, <hi>ſhall, within ſuch a certain time to be prefix'd, actually pay into the Exchequer, or to Commiſſioners to be appointed in every reſpective County, ſome certain <gap reason="illegible: faint" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> degrees of perſons; or, in default thereof, to ſtand Excepted out of the ſaid Act.</hi>
+               </item>
+            </list>
+            <p>There is no doubt but all theſe, and many other perſons, that it may not be our Intereſt to diſoblige at this time by a Bill of Attainder, or putting Marks or Diſtinctions upon them, to render them Infamous in their Country, and which muſt, of Neceſſity, ſtir up a Spirit of Oppoſition upon all Occaſions, would yet voluntarily and freely lay down a ſmall Sum of Money to ſecure themſelves and their poſterity from any future Troubles after ſo great a Revolution, to purchaſe peace and quietneſs, and a firm confirmation of their Lives and Eſtates by Act of Parliament.</p>
+            <p>The Parliament is not bound to diſtribute their Favours <hi>Gratìs,</hi> without ſome ſmall Acknowledgment and Return towards the carrying on the War againſt <hi>France,</hi> the Common Enemy of Chriſtendom.</p>
+            <p>And the people would very joyfully accept of the ſame upon theſe Terms, to the raiſing of a very con<g ref="char:EOLhyphen"/>ſiderable Tax as much beyond the Propoſal above ſet forth, as the Number of perſons under the long Ca<g ref="char:EOLhyphen"/>talogue of Offences in the two laſt R<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>igns, is above the Number of the perſons mentioned in this paper.</p>
+         </div>
+         <div type="treatise">
+            <head>Reaſons for Raiſing Money by way of a <hi>Tax,</hi> and not by way of a Bill of <hi>Attainder.</hi>
+            </head>
+            <p>
+               <hi>NOlumus Leges Angliae mutari,</hi> the Law and Cuſtom of Parliament is <hi>Lex Terrae,</hi> and the Supreme Law of the Land; it regulates and corrects the Abuſes of all other Courts, and the Equity of their Proceedings is for Example to all Inferior Juriſdictions, <hi>Ergo Nolumus Leges, &amp; Conſuetudines Parliamenti mutari.</hi>
+            </p>
+            <p>'Tis true, the Juriſdiction of the High Court of Parliament is abſolute and unlimited, the King, Lords and Commons are in themſelves uncontroulable by any power upon Earth. But in imitation of the great Creator and Governor of the whole World, they have been pleas'd to ſet ſuch Rules and Bounds to their own proceedings, as they in their great Wiſdom have thought juſt and convenient, and moſt conſiſtent with the common ſafety of the people. Hence it is, that we find the Parliament in all Ages very cautious of introducing new Preſidents in the ways and methods of Raiſing of Money. Hence it is, that we may obſerve how very careful our wiſe Predeceſſors have been, in paſſing any Bill of <hi>Attainder;</hi> and whenever
+<pb n="3" facs="tcp:172939:2"/>we meet with ſuch an extraordinary Bill, we ſhall generally find that the ſame was paſſed in a Caſe of Ne<g ref="char:EOLhyphen"/>ceſſity, and upon ſome eminent and particular perſon, who had been inſtrumental in ſome high ſtation, to<g ref="char:EOLhyphen"/>wards the Subverſion of the Government, and whoſe intereſt and power was above the Authority of the ordinary Courts of Juſtice, as againſt my Lord <hi>Strafford,</hi> and the Duke of <hi>Monmouth,</hi> and ſuch like per<g ref="char:EOLhyphen"/>ſons; and yet in the former, the Parliament was ſo very cautious, as to Enact, <hi>That the ſame ſhould never be made uſe of for a preſident for the future.</hi>
+            </p>
+            <p>But in all Ages and Hiſtories we can never read an Inſtance of an Act of Parliament to attaint a num<g ref="char:EOLhyphen"/>ber of Men of Inferior ſtation, and ſubject to the ordinary Methods and Rules of Law, the Reaſon of which is very plain, for that ſuch Preſidents are of dangerous Conſequence, and not conſiſtent with the common Safety of the people of <hi>England; Salus populi, Suprema Lex.</hi> The end of all Government con<g ref="char:EOLhyphen"/>ſiſts in a general Security of the Lives, Liberties, and properties of the Subject: And in every Govern<g ref="char:EOLhyphen"/>ment, where the Laws and Methods of the Supreme Courts are moſt ſtrict and regular for the common Safety, thoſe Laws and Methods are eſteem'd as the beſt, and that Nation as the moſt happy in the World. God be praiſed, this Kingdom doth enjoy the happineſs of the beſt Conſtitution in the World, which we ought to value the more, becauſe ſo lately retriev'd, by the wonderful hand of providence, from imminent Deſtruction. But, amongſt other Laws and Methods obſerv'd in this Nation, the people of <hi>England</hi> have always valued this, That in all the various Revolutions of the Government, the general pardon of one prince (tho' but King <hi>de Facto,</hi> and not <hi>de Jure</hi>) hath ever been obſerv'd in the next Revolution; for otherwiſe no Man living could be ſafe, but that one time or other he might be executed for a Traytor, or his Eſtate forfeited, and his Blood corrupted by a Bill of <hi>Attainder.</hi>
+            </p>
+            <p>'Tis true, we have ſeen a pardon diſputed in parliament againſt an Impeachment of the Houſe of Commons, and in the Caſe of a prime Miniſter of State; but the Law of <hi>England</hi> is grounded upon Rea<g ref="char:EOLhyphen"/>ſon, which in ſuch a Caſe is ſingular, and in a manner <hi>Lex Neceſſitatis;</hi> for ſuch perſons are ſuppoſed to command the Br<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad Seal, and to be able to obtain a pardon when they pleaſe. And whereas it is a Maxim of Law, <hi>That the King can do no Wrong;</hi> the ſame do's imply. That his Miniſters may do wrong, and may be puniſh'd for it; but that might not be, in caſe a pardon ſhould be valid in ſuch a Caſe againſt the im<g ref="char:EOLhyphen"/>peachment of the Commons of <hi>England:</hi> The King might do wrong, if his Miniſters might do it by his aſſurance of ſuch a pardon; ſo that the common ſafety of the people, which is the Supreme Law that go<g ref="char:EOLhyphen"/>verns all the reſt, do's require that ſuch a pardon in ſuch particular Inſtances ſhould not be of any Force in Law; And this will be the Caſe of the late Lord Chancellor, ſome of the Judges, and other evil Mini<g ref="char:EOLhyphen"/>ſters of State.</p>
+            <p>But <hi>Ceſſante ratione Legis Ceſſat Lex,</hi> where providence has thrown a pardon upon a Number of Men ſubject to the ordinary Courts of Juſtice, and the ſame is allowed every Term in the Courts of <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter Hall,</hi> and all other Courts within this Kingdom, when Felons, and other Notorious Offe<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ders have been diſcharged upon it, then it is very extraordinary to ſee the ſame at length defeated, and a Bill of <hi>At<g ref="char:EOLhyphen"/>tainder</hi> executed upon ſeveral thouſand Families.</p>
+            <p>How can ſuch a preſident as this conſiſt with the common ſafety of the people? For if one Legal par<g ref="char:EOLhyphen"/>don may be ſet aſide, why not another? The general pardon of a prince, is as Legal as any other pardon by Act of parliament, ſo far as it can by Law extend; And if it ſhould once become practicable to paſs Bills of <hi>Attainder,</hi> notwithſtanding any Legal pardon to the contrary, Who can be ſafe? What can be expected, but that in every Revolution the ſucceeding Parliament ſhould paſs a Bill of <hi>Attainder</hi> upon the Former, notwithſtanding any General pardon or Act of Oblivion to the contrary, and then what Fa<g ref="char:EOLhyphen"/>tal Conſequences will ſuch a preſident produce? Where will be the End of Ruin and Deſolation? This would be to put a new Weapon into Mens hands, to deſtroy one another to all Eternity</p>
+            <p>Conſider the various Revolutions during the Wars between the Two Houſes of <hi>York</hi> and <hi>Lancaſter;</hi> if the General pardons on both Sides had been ſet aſide, no Man in the whole Kingdom had been ſecure.</p>
+            <p>As the General Law of Nations ought to be obſerved by all Princes and Aſſemblies, tho' in open War one with another, ſo theſe General pardons for the common Safety of the people ought to be obſerv'd in all Revolutions of Government.</p>
+            <p>Object. <hi>That theſe Arguments tend to the ſetting aſide of the Bill of</hi> Forfeitures, <hi>and of the Bill of</hi> pains <hi>and</hi> penalties, <hi>and therefore are not to be allowed.</hi>
+            </p>
+            <list>
+               <item>I. As to the Bill of <hi>Forfeitures,</hi> the Anſwer is, That ſo far as the ſame is really and truly a Bill of <hi>Forfeitures,</hi> theſe Reaſons do not tend to the ſetting aſide thereof: But ſo far as the ſaid Bill may tend to the impoſing of penalties upon perſons who are not liable to the ſame by the Common Law, they may; for ſo far the ſaid Bill is not properly a Bill of <hi>Forfeitures,</hi> but a Bill of <hi>Attainder,</hi> and may be retorted upon us hereafter for not receiving the Sacrament.</item>
+               <item>II. As to the Bill of <hi>pains</hi> and <hi>penalties,</hi> theſe Reaſons can no ways be made uſe of againſt inflicting <hi>pains</hi> and <hi>penalties</hi> upon great Miniſters of State, who have acted againſt their Oaths to the Government, and againſt the Fundamental Conſtitution thereof upon the Confidence of a pardon, which they could command whenever they pleas'd, and who were puniſhable by no other way, but by the power of a parlia<g ref="char:EOLhyphen"/>ment. But ſo far as the ſaid Bill may extend to the puniſhment of Inferior perſons who are under the common Fate of Mankind, to ſtand and fall by the Laws of this Realm, there ſuch Reaſons may be made uſe of very juſtly, to raiſe a due Conſideration how far ſuch a preſident may be conſiſtent with the Rules and Methods of parliament, and the common Safety of the people of <hi>England.</hi>
+               </item>
+            </list>
+            <p>Object. <hi>That this Bill of</hi> Forfeitures <hi>will not be any Bill of</hi> Attainder, <hi>for that the late King's pardon does not extend to the penalties which are due to an Informer, for the King cannot give away another Man's Right;
+<pb n="4" facs="tcp:172939:3"/>He may remit a Forfeiture due to Himſelf, but not when it's due to the Subject; ſo that wherever the Subject hath a Right, the King cannot, by his pardon, diveſt the ſame.</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> In all penal Statutes, the Right of the penalty is <hi>in Nubibus,</hi> and not fix'd in any perſon, till an Action be brought, or an information fil'd; and then that perſon who files the Information, hath a Right in Law to the penalty, and the King cannot, by any pardon, diveſt the ſame, or remit that Forfeiture which is by Law appropriated to the uſe of that particular Informer. But in Caſe the King grant a pardon before any Action brought, or Information filed, (that is) before the Right be attached in any Subject, in ſuch Caſe the King takes the firſt Cognizance of the Matter, and is, in judgment of Law, inſtead of an Infor<g ref="char:EOLhyphen"/>mer, and by Conſequence may remit the Forfeiture which is, in ſuch a Caſe, due to himſelf alone. And farther alſo, for that after ſuch pardon, no perſon can inform <hi>tam pro Domino Rege quàm pro ſeipſo,</hi> ac<g ref="char:EOLhyphen"/>cording to the Statutes, and for himſelf alone he cannot inform in any popular Action, as is adjudg'd in 3 <hi>Inſtit.</hi> 194, 195. <hi>Coke</hi> 11. <hi>Report.</hi> Dr. <hi>Foſter</hi>'s Caſe, <hi>fol.</hi> 65, 66. and many other <hi>Reports.</hi> So that the late King's pardon is valid in Law to diſcharge all perſons againſt whom no Action was brought, nor Information filed before the ſaid pardon.</p>
+            <p>II. Upon this particular Statute, no Action can be brought till after <hi>Conviction</hi> by Information, preſent<g ref="char:EOLhyphen"/>ment, or Indictment, and the plaintiff in his Declaration muſt ſet forth the ſaid <hi>Conviction</hi> as part of his Title; But no Man can be Convicted ſince that pardon, and therefore no penalty can be recover'd by any Informer, as is ſaid before.</p>
+            <p>III. All thoſe who had particular Diſpenſations in their Patents may inſiſt, that they had acted ac<g ref="char:EOLhyphen"/>cording to Law, that is, according to the Judgment of the <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>udges; For tho' that Judgment might be ever ſo corrupt and erroneous, yet the ſame was a Law that left the people to their liberty, either to take the Oaths, or to let them alone: What is all the Law of <hi>England,</hi> but the Judgment of the Judges reported to us from Age to Age, in our Law Books and Reports? In the 1 <hi>Inſ<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> fo.</hi> 168 c. my Lord <hi>C<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke</hi> tells us, That <hi>Judicium eſt quaſi Juris d<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctum</hi> ſo called, becauſe ſo long as it ſtands in Force, <hi>pro veritate accipitur,</hi> and cannot be contradicted. The Famous <hi>Plowden, fo.</hi> 82. in the Caſe of <hi>Partridge</hi> againſt <hi>C<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oker,</hi> hath this Expreſſion, <hi>Words</hi> (ſays he) <hi>which are no other than the Verb<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ration of the <gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ir, do not make a Statute but only the Image of a Statute, and the Life of the Statute reſts in the minds of the Expoſitors of the words, who are the Members of Parliament who made that Statute: But in Caſe there be no Parliament ſo that their minds can<g ref="char:EOLhyphen"/>not be known, then the Judges are by Law the Interpreters of that Statute The Law itſelf is but a dead Letter, but the Judges, upon their ſolemn Oaths, are the ſpeaking Law, and ſeveral Caſes are there Cited where Con<g ref="char:EOLhyphen"/>ſtructions have been made contrary to the Letter of the Statute.</hi> My Lord <hi>Hobart</hi> in the Caſe of <hi>Slade</hi> againſt <hi>Drake</hi> tells us, <hi>That as Articles are made</hi> de Fide, <hi>by the determination of the Church, ſo matters are ſaid to be</hi> de Lege, <hi>by the determination of the King's Courts.</hi> And <hi>fo.</hi> 84. his Lordſhip declares, <hi>That the Courts Eccleſiaſtical cannot in<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erpret a Statute, but only the Judges of the Common Law.</hi>
+            </p>
+            <p>'Tis expreſly Enacted, That the King ſhall not pardon Murder but by expreſs words, and not by the words <hi>(Felonicam Interfectionem)</hi> becauſe the King was frequently miſinformed. and by miſrepreſenta<g ref="char:EOLhyphen"/>tions uſed to pardon Murder; whereas he intended only to pardon Manſlaughter. And yet the King <hi>pro Tempore,</hi> hath always diſpenſed with that Statute, and Murder has been pardon'd by the words <hi>(Felonicam Interfectionem)</hi> ever ſince, contrary to the expreſs words of the Statute; and, as we are credibly infor<g ref="char:EOLhyphen"/>med, ſuch a pardon was read, and allowed in the King's Bench this laſt Term. Caſes of this Nature are innumerable, what words can be more plain and expreſs than the words of thoſe Statutes, <hi>That no perſon ſhall go Judge of Aſſize in his own County; Nor be Sheriff for more than one Year. That no</hi> Welſhman <hi>ſhall be Judge Chamberlain,</hi> &amp;c. <hi>in</hi> Wales. <hi>That there ſhall not be more than</hi> 8 <hi>Juſtices in each County of</hi> Wales, and the like. And yet the contrary is done and allow'd even at this day, without any Notice thereof in Par<g ref="char:EOLhyphen"/>liament; and what Reaſon can be given for this, but that all Mankind muſt confeſs, <hi>That the Judges are the ſpeaking Law; and that they have declared, That the King has a diſpenſing power in theſe Caſes, notwithſtanding the Statutes ſay, That the King ſhall not be able by any</hi> Nonobſtante <hi>to diſpenſe with the ſame.</hi>
+            </p>
+            <p>And therefore let the Judges anſwer for the Integrity of the Law in this Caſe, as well as in the Caſe of the <hi>Ship Money,</hi> and all other Caſes, the Subject is no way accountable by Law for the ſame. In the Speech of Mr. <hi>Pierpoint</hi> againſt Judge <hi>Berkley,</hi> upon his Impeachment for High Treaſon before the Lords, he urges, by way of Aggravation, <hi>That for a Judge to be unjuſt, more hurteth the publick than any other; For what a Judge doth, is look'd upon as a thing ought to be done, and his unjuſt Judgments more our Records,</hi> (that is) <hi>our Laws,</hi> Ruſhworth<hi>'s Collections.</hi> The Excellency of our Laws, above the Laws of all other Nations, conſiſts in the Certainty of it, and the Certainty conſiſts in this, That every Judgment of the Judges is a Law till it be Reverſed; ſo that the people of <hi>England</hi> who act under ſuch a Judgment are ſafe, without any regard to the Integrity or Corruption of the Judges, of which they are no Judges Paramount: But when that Judgment is Reverſed in the <hi>Exchequer,</hi> they have all fair warning that the Law is altered in that particular, and then the 2d Judgment will protect them; and in Caſe that Judgment be alſo Reverſed in Parliament, then the firſt Judgment comes into Force again: So that the people muſt walk after the Judgment of the Judges in all Caſes; and if they are puniſhed for ſo doing in Parliament, it muſt be by a Bill of <hi>Attainder,</hi> contrary to all the former Rules and Methods of proceedings.</p>
+            <p>So that upon the whole matter, to raiſe Money by ſuch a Tax as is propoſed, ſeems to be juſt and equal, and according to the ancient Rules and Methods of Parliament: But to raiſe Money by the Name of <hi>For<g ref="char:EOLhyphen"/>feitures,</hi> tho' in reality by a Bill of <hi>Attainder,</hi> is a new Preſident of very great Conſequence; and whether it be conſiſtent with the common Safety of the people in General, or with our own Intereſt in particular, is humbly ſubmitted to our Superiors, to whoſe Judgment we muſt all Appeal.</p>
+            <epigraph>
+               <q>Let us beware leſt we dig a pit for others, and fall into it our ſelves.</q>
+            </epigraph>
+         </div>
+      </body>
+   </text>
+</TEI>
